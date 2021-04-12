@@ -1,13 +1,18 @@
 <head>
 <link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Orbitron" rel="stylesheet">
 <style>
 body {background-color: rgb(200,200,200);}
 
 img {max-width:100vw;}
 
-.header {font-family: "Orbitron", fantasy; color:rgb(106, 90, 205); font-size:larger; background-color:rgb(0,140,255)}
+.header {font-family: "Orbitron", fantasy; color:black; font-size:larger; font-weight:bold; background-color:rgb(0,140,255)}
 
-.content {font-family:serif; background-color:rgb(200,255,255)}
+.content {font-family:"Open Sans", serif; background-color:rgb(200,255,255)}
+
+a:visited {
+  color: green;
+}
+
 </style>
 </head>
